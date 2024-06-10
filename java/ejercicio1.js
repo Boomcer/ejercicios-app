@@ -29,3 +29,9 @@ nombre = nombre.toUpperCase();
 apellido = apellido.toUpperCase();
 console.log(`${nombre} ${apellido}`)
 
+//Ejercicio 4
+let  texto = prompt('Ingrese un texto');
+
+texto = texto.toUpperCase();
+console.log(texto);
+console.log(texto.length);
