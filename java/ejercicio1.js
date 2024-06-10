@@ -39,7 +39,7 @@ console.log(texto.length);
 //Ejercicio 5
 let numero = prompt('Ingrese un numero decimal');
 parseInt(numero);
-console.log(Math.round(numero));
+console.log(Math.ceil(numero));
 console.log(Math.floor(numero));
 console.log(numero * 3);
 console.log(numero / 2);
