@@ -19,3 +19,13 @@ variable asegurándose que sea de tipo number. Mostrar en consola lo siguiente:
 let nombre = "Nicolas";
 let apellido = "gallardo";
 console.log(`Bienvenido al evento ${nombre} ${apellido}` );
+
+//Ejercicio 2
+let frase = '              Había una vez un pequeño programador junior       ';
+console.log(frase.trim());
+
+//Ejercicio 3
+nombre = nombre.toUpperCase();
+apellido = apellido.toUpperCase();
+console.log(`${nombre} ${apellido}`)
+
